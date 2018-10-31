@@ -1,0 +1,14 @@
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\bin\Debug\netcoreapp2.1\DataVisualiser.deps.json
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\bin\Debug\netcoreapp2.1\DataVisualiser.runtimeconfig.json
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\bin\Debug\netcoreapp2.1\DataVisualiser.runtimeconfig.dev.json
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\bin\Debug\netcoreapp2.1\DataVisualiser.dll
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\obj\Debug\netcoreapp2.1\DataVisualiser.csprojAssemblyReference.cache
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\obj\Debug\netcoreapp2.1\DataVisualiser.csproj.CoreCompileInputs.cache
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\obj\Debug\netcoreapp2.1\DataVisualiser.RazorAssemblyInfo.cache
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\obj\Debug\netcoreapp2.1\DataVisualiser.RazorAssemblyInfo.cs
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\obj\Debug\netcoreapp2.1\DataVisualiser.AssemblyInfoInputs.cache
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\obj\Debug\netcoreapp2.1\DataVisualiser.AssemblyInfo.cs
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\obj\Debug\netcoreapp2.1\DataVisualiser.RazorTargetAssemblyInfo.cache
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\bin\Debug\netcoreapp2.1\DataVisualiser.pdb
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\obj\Debug\netcoreapp2.1\DataVisualiser.dll
+C:\Users\sharm\source\repos\DataVisualiser\DataVisualiser\obj\Debug\netcoreapp2.1\DataVisualiser.pdb
